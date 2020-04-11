@@ -1,5 +1,8 @@
 
-//No Custom JavaScript
+window.targetGlobalSettings =
+{
+cookieDomain:"aem-rockstar.github.io"
+};
 
 
 /**
