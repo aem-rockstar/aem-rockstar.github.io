@@ -1,8 +1,5 @@
 
-window.targetGlobalSettings =
-{
-cookieDomain:"ambitews.github.io"
-};
+//No Custom JavaScript
 
 
 /**
